@@ -21,3 +21,18 @@ body {
 
 
  }
+ 
+ .produtoinfo {
+    float: left;
+    height: 420px;
+    width: 227px;
+    border-radius: 0 7px 10px 7px;
+    background-color: aliceblue;
+}
+ .produtotexto {
+    height: 300px;
+    width: 327px;
+ }
+body {
+    background-color: bisque;
+}
