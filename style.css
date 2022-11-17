@@ -8,9 +8,9 @@ body {
     width: 654px;
     margin: 50px auto;
     border-radius: 7px 7px 7px 7px;
-    -webkit-box-shadow: 0px 14px 32px 0px rgba(0,0,0,0.15);
-    -moz-box-shadow: 0px 14px 32px 0px rgba(0,0,0,0.15);
-    box-shadow: 0px 14px 32px 0px (0,0,0,rgba(0,0,0,0.15));
+    -webkit-box-shadow: 0px 14px 42px 0px rgba(0,0,0,0.15);
+    -moz-box-shadow: 0px 14px 42px 0px rgba(0,0,0,0.15);
+    box-shadow: 0px 14px 42px 0px (0,0,0,rgba(0,0,0,0.15));
 
  }
 
@@ -18,6 +18,7 @@ body {
     float: left;
     height: 420px;
     width: 327px;
+    border-radius: 7px 0 0 7px;
 
 
  }
@@ -25,7 +26,7 @@ body {
  .produtoinfo {
     float: left;
     height: 420px;
-    width: 227px;
+    width: 327px;
     border-radius: 0 7px 10px 7px;
     background-color: aliceblue;
 }
@@ -33,6 +34,10 @@ body {
     height: 300px;
     width: 327px;
  }
-body {
-    background-color: bisque;
+.produtotexto h1{
+    margin: 0 0 0 0 38px;
+    padding-top: 1px;
+    font-size: 34px;
+    color: #474747;
+
 }
